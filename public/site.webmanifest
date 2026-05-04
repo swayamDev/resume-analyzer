@@ -1,0 +1,16 @@
+{
+  "name": "Analytiq | AI Resume Analyzer",
+  "short_name": "Analytiq",
+  "description": "Get AI-powered ATS scores and improvement tips for your resume.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6068eb",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
